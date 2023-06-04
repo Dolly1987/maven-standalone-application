@@ -40,13 +40,13 @@
         <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>devrepo</name>
 	      <url>http://localhost:8081/repository/releaserepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>releaserepo</name>
 	      <url>http://localhost:8081/repository/devrepo/</url>
 	    </snapshotRepository>
 	    
